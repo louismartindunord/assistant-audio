@@ -1,0 +1,8 @@
+Documentation PYTTSX3:
+https://pyttsx3.readthedocs.io/en/latest/engine.html
+
+
+ #afficher la liste des micros disponibles
+        #print(sr.Microphone.list_microphone_names())
+
+Gestion des paths du projet
