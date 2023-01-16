@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>thankyou.aec253f4-91b6-11ed-94d2-2af8bc751f3e.jpg</filename>
+	<path>/Users/louismartindunord/Desktop/python/assistant-audio/object-recognition/Tensorflow/workspace/images/thankyou/thankyou.aec253f4-91b6-11ed-94d2-2af8bc751f3e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>362</ymin>
+			<xmax>896</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>
