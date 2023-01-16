@@ -1,3 +1,9 @@
+Tuto pour mise en place chatbot:
+
+https://www.tophebergeur.com/blog/projet-chatbot-python/
+
+
+
 Documentation PYTTSX3:
 https://pyttsx3.readthedocs.io/en/latest/engine.html
 
@@ -6,3 +12,17 @@ https://pyttsx3.readthedocs.io/en/latest/engine.html
         #print(sr.Microphone.list_microphone_names())
 
 Gestion des paths du projet
+
+
+Ajout d'une interface 3D :
+
+https://maria.awardwinninghuman.com/
+
+Object recognition ; 
+
+https://www.youtube.com/watch?v=yqkISICHH-U
+
+
+
+pour mettre de la musique via spotigy necessite spotify web-playback -sdk
+https://developer.spotify.com/documentation/web-playback-sdk/quick-start/
